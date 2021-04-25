@@ -1,1 +1,1 @@
-Instructions to run: Python
+Instructions to run: Python(pycharm)
